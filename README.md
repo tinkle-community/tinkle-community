@@ -20,7 +20,7 @@
 
   <br><br>
 
-  `9,000+ stars` · `2 months` · `Open source`
+  `9,000+ stars` · `1 months` · `Open source`
 
   <br>
 
