@@ -1,23 +1,29 @@
-## Hey, I'm Tinkle 👋
+<div align="center">
 
-  **Creator of [NOFX](https://github.com/NoFxAiOS/nofx)** — The open-source AI Trading Operating System
+  # Tinkle
 
-  <a href="https://github.com/NoFxAiOS/nofx"><img src="https://img.shields.io/github/stars/NoFxAiOS/nofx?style=social" /></a>
+  *Building what others said was impossible.*
 
-  ### What I'm building
+  <br>
 
-  🧠 **NOFX** — AI-native trading infrastructure that connects any LLM to any exchange. Strategy layer + execution layer, fully open-source.
+  <a href="https://github.com/NoFxAiOS/nofx">
+    <img src="https://img.shields.io/github/stars/NoFxAiOS/nofx?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" />
+  </a>
 
-  - 9,000+ ⭐ in 2 months
-  - Multi-AI: GPT / Claude / Gemini / DeepSeek / Grok
-  - Multi-Exchange: Binance / Bybit / OKX / Hyperliquid / DEX
+  <br><br>
 
-  ### Connect
+  **[NOFX](https://github.com/NoFxAiOS/nofx)** — AI Trading OS
 
-  [![Twitter](https://img.shields.io/badge/@Web3Tinkle-000000?style=flat&logo=x&logoColor=white)](https://x.com/Web3Tinkle)
+  <br>
 
-  ---
+  [![𝕏](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Web3Tinkle)
 
-  *Building the AI layer for crypto trading.*
+  <br><br>
 
-  ---
+  `9,000+ stars` · `2 months` · `Open source`
+
+  <br>
+
+  <sub>The AI layer for crypto trading.</sub>
+
+  </div>
