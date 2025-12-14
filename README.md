@@ -16,7 +16,7 @@
 
   <br>
 
-  [![𝕏](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Web3Tinkle)
+  [![𝕏 @Web3Tinkle](https://img.shields.io/badge/@Web3Tinkle-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Web3Tinkle)
 
   <br><br>
 
